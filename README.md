@@ -1,3 +1,4 @@
+![](./banner_git.jpg)
 # Cv
  Curriculum Vitae 
 
